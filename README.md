@@ -1,2 +1,2 @@
 # belajarbareng
-belajar bareng git
+belajar bareng imam, solichin, firda
